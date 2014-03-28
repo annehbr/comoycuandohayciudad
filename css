@@ -1,0 +1,10 @@
+width: 80%;
+  	margin: 100px auto;
+  	font-family: Palatino-Linotype;
+ +	font-size: 150%;
+ +	color: #666;
+ +}
+ +
+ +h1{
+ +	color: #C00;
+  }
